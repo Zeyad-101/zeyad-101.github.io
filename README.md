@@ -1,8 +1,10 @@
-# Zeyad Waled — Portfolio
+# Zeyad Waled — Software Engineering Portfolio
 
-My personal corner of the internet. Built from scratch with HTML, CSS, and JS — no frameworks, no fluff.
+![Portfolio Preview](Assets/preview.png)
 
-🔗 **[zeyad-101.github.io](https://zeyad-101.github.io/)**
+> A personal portfolio showcasing my work in embedded systems, software engineering, and automation.
+
+🔗 **Live Site:** [zeyad-101.github.io](https://zeyad-101.github.io/)
 
 ---
 
