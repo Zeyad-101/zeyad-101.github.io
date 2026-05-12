@@ -1,6 +1,6 @@
 # Zeyad Waled — Software Engineering Portfolio
 
-![Portfolio Preview](Assets/preview.png)
+![Portfolio Preview](Assets/Preview.png)
 
 > A personal portfolio showcasing my work in embedded systems, software engineering, and automation.
 
